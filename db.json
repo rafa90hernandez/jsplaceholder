@@ -1,0 +1,46 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Paris - França",
+      "url": "https://picsum.photos/id/1015/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1015/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Nova York - EUA",
+      "url": "https://picsum.photos/id/1016/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1016/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "Roma - Itália",
+      "url": "https://picsum.photos/id/1018/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1018/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 4,
+      "title": "Natureza verde",
+      "url": "https://picsum.photos/id/1020/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1020/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 5,
+      "title": "Cachoeira tranquila",
+      "url": "https://picsum.photos/id/1021/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1021/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 6,
+      "title": "Lago espelhado",
+      "url": "https://picsum.photos/id/1022/600/400",
+      "thumbnailUrl": "https://picsum.photos/id/1022/150/150"
+    }
+  ]
+}
