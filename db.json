@@ -17,116 +17,116 @@
     {
       "userId": 1,
       "id": 1,
-      "title": "Álbum 1 de Rafael"
+      "title": "Viagens"
     },
     {
       "userId": 1,
       "id": 2,
-      "title": "Álbum 2 de Rafael"
+      "title": "Família"
     },
     {
       "userId": 2,
       "id": 3,
-      "title": "Álbum 3 de Isabela"
+      "title": "Paisagens"
     },
     {
       "userId": 2,
       "id": 4,
-      "title": "Álbum 4 de Isabela"
+      "title": "Pets"
     },
     {
       "userId": 3,
       "id": 5,
-      "title": "Álbum 5 de Renan"
+      "title": "Festivais"
     },
     {
       "userId": 3,
       "id": 6,
-      "title": "Álbum 6 de Renan"
+      "title": "Trabalhos"
     }
   ],
   "photos": [
     {
       "albumId": 1,
       "id": 1,
-      "title": "Foto 1",
+      "title": "Curtindo o pôr do sol",
       "url": "https://picsum.photos/id/101/600/400",
       "thumbnailUrl": "https://picsum.photos/id/101/150/150"
     },
     {
       "albumId": 1,
       "id": 2,
-      "title": "Foto 2",
+      "title": "Momentos inesquecíveis",
       "url": "https://picsum.photos/id/102/600/400",
       "thumbnailUrl": "https://picsum.photos/id/102/150/150"
     },
     {
       "albumId": 2,
       "id": 3,
-      "title": "Foto 3",
+      "title": "Viagem dos sonhos",
       "url": "https://picsum.photos/id/103/600/400",
       "thumbnailUrl": "https://picsum.photos/id/103/150/150"
     },
     {
       "albumId": 2,
       "id": 4,
-      "title": "Foto 4",
+      "title": "Com os amigos na trilha",
       "url": "https://picsum.photos/id/104/600/400",
       "thumbnailUrl": "https://picsum.photos/id/104/150/150"
     },
     {
       "albumId": 3,
       "id": 5,
-      "title": "Foto 5",
+      "title": "Festa de aniversário",
       "url": "https://picsum.photos/id/105/600/400",
       "thumbnailUrl": "https://picsum.photos/id/105/150/150"
     },
     {
       "albumId": 3,
       "id": 6,
-      "title": "Foto 6",
+      "title": "Amor em cada detalhe",
       "url": "https://picsum.photos/id/106/600/400",
       "thumbnailUrl": "https://picsum.photos/id/106/150/150"
     },
     {
       "albumId": 4,
       "id": 7,
-      "title": "Foto 7",
+      "title": "Aventura no fim de semana",
       "url": "https://picsum.photos/id/107/600/400",
       "thumbnailUrl": "https://picsum.photos/id/107/150/150"
     },
     {
       "albumId": 4,
       "id": 8,
-      "title": "Foto 8",
+      "title": "Descobrindo novos lugares",
       "url": "https://picsum.photos/id/108/600/400",
       "thumbnailUrl": "https://picsum.photos/id/108/150/150"
     },
     {
       "albumId": 5,
       "id": 9,
-      "title": "Foto 9",
+      "title": "Retrato de um instante",
       "url": "https://picsum.photos/id/109/600/400",
       "thumbnailUrl": "https://picsum.photos/id/109/150/150"
     },
     {
       "albumId": 5,
       "id": 10,
-      "title": "Foto 10",
+      "title": "Alegria que contagia",
       "url": "https://picsum.photos/id/110/600/400",
       "thumbnailUrl": "https://picsum.photos/id/110/150/150"
     },
     {
       "albumId": 6,
       "id": 11,
-      "title": "Foto 11",
+      "title": "No topo da montanha",
       "url": "https://picsum.photos/id/111/600/400",
       "thumbnailUrl": "https://picsum.photos/id/111/150/150"
     },
     {
       "albumId": 6,
       "id": 12,
-      "title": "Foto 12",
+      "title": "Entre flores e sorrisos",
       "url": "https://picsum.photos/id/112/600/400",
       "thumbnailUrl": "https://picsum.photos/id/112/150/150"
     }
