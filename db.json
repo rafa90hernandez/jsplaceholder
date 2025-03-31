@@ -2,47 +2,47 @@
   "users": [
     {
       "id": 1,
-      "name": "Usuário 1"
+      "name": "Rafael"
     },
     {
       "id": 2,
-      "name": "Usuário 2"
+      "name": "Isabela"
     },
     {
       "id": 3,
-      "name": "Usuário 3"
+      "name": "Renan"
     }
   ],
   "albums": [
     {
       "userId": 1,
       "id": 1,
-      "title": "Álbum 1 de Usuário 1"
+      "title": "Álbum 1 de Rafael"
     },
     {
       "userId": 1,
       "id": 2,
-      "title": "Álbum 2 de Usuário 1"
+      "title": "Álbum 2 de Rafael"
     },
     {
       "userId": 2,
       "id": 3,
-      "title": "Álbum 3 de Usuário 2"
+      "title": "Álbum 3 de Isabela"
     },
     {
       "userId": 2,
       "id": 4,
-      "title": "Álbum 4 de Usuário 2"
+      "title": "Álbum 4 de Isabela"
     },
     {
       "userId": 3,
       "id": 5,
-      "title": "Álbum 5 de Usuário 3"
+      "title": "Álbum 5 de Renan"
     },
     {
       "userId": 3,
       "id": 6,
-      "title": "Álbum 6 de Usuário 3"
+      "title": "Álbum 6 de Renan"
     }
   ],
   "photos": [
